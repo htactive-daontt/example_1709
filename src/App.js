@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          NGUYỄN THỊ THU ĐÀO - LỚP 17T5 - HOC REACT CÙNG ĐÀO
+          NGUYỄN THỊ THU ĐÀO - LỚP 17T5 - HOC REACT CÙNG ĐÀO-s2
         </a>
       </header>
     </div>
